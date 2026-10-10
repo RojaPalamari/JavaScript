@@ -12,6 +12,7 @@ A collection of small JavaScript examples covering the language fundamentals.
 ### Identifiers
 
 - `02_JS_Identifiers/01_IND.js` - examples of `var`, `let`, and `const`.
+- `02_JS_Identifiers/02_IND_Rules.js` - rules for valid JavaScript identifiers.
 
 ## Run an example
 
