@@ -15,7 +15,6 @@ A collection of small JavaScript examples covering the language fundamentals.
 - `02_JS_Identifiers/02_IND_Rules.js` - rules for valid JavaScript identifiers.
 
 ### JavaScript Operators
-
 - `03_JS_Operators/04_Logical_Operators.js` - examples of the logical AND (`&&`), OR (`||`), and NOT (`!`) operators.
 
 ## Run an example

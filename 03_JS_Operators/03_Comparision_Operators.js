@@ -20,6 +20,8 @@ console.log("Is 5 strictly not equal to '5'?", 5 !== "5"); // Output: Is 5 stric
 
 console.log(0 == ""); // Output: true (loose equality, type coercion occurs)
 console.log(0 === ""); // Output: false (strict equality, no type coercion)
+console.log("0" == ""); // Output: true (loose equality, type coercion occurs)
+console.log("0" === ""); // Output: false (strict equality, no type coercion)
 
 console.log(null == undefined); // Output: true (loose equality, both represent absence of value)
 console.log(null === undefined); // Output: false (strict equality, different types)    
