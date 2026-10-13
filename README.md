@@ -16,11 +16,12 @@ A collection of small JavaScript examples covering the language fundamentals.
 
 ### JavaScript Operators
 - `03_JS_Operators/04_Logical_Operators.js` - examples of the logical AND (`&&`), OR (`||`), and NOT (`!`) operators.
+- `03_JS_Operators/07_Incre_Decre_Operators.js` - examples of prefix and postfix increment (`++`) and decrement (`--`) operators.
 
 ## Run an example
 
 Run a file with Node.js from the repository root:
 
 ```sh
-node 03_JS_Operators/04_Logical_Operators.js
+node 03_JS_Operators/07_Incre_Decre_Operators.js
 ```
