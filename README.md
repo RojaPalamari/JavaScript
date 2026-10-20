@@ -9,7 +9,7 @@ Install [Node.js](https://nodejs.org/), then run an example from the repository
 root:
 
 ```sh
-node 03_JS_Operators/07_Incre_Decre_Operators.js
+node 04_JS_Operators/07_Incre_Decre_Operators.js
 ```
 
 Choose any `.js` file listed below to explore a different topic.
@@ -36,7 +36,7 @@ Choose any `.js` file listed below to explore a different topic.
 - `05_Number_Part2.js` - numeric separators and `BigInt`.
 - `06_Number_Part3.js` - special numeric values such as `Infinity` and `NaN`.
 
-### Operators - `03_JS_Operators/`
+### Operators - `04_JS_Operators/`
 
 - `01_Assignment_Operators.js` - assign and update variable values.
 - `02_Arithmetic_Operators.js` - perform arithmetic calculations.
@@ -48,3 +48,10 @@ Choose any `.js` file listed below to explore a different topic.
   decrement (`--`).
 - `08_Nullish_Operators.js` - use nullish coalescing (`??`) and compare it with
   logical OR (`||`).
+
+### Conditional statements - `06_JS_If_Else_Condtion/`
+
+- `01_If_Else.js` - run code based on a condition.
+- `02_If_Else_Nested.js` - use a conditional statement inside another.
+- `03_TO_IfElse.js` - compare a ternary expression with an `if`/`else` decision.
+- `04_Multiple_IfElse.js` - assign a grade based on a score range.
