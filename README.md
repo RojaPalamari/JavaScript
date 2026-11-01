@@ -80,3 +80,23 @@ Choose any `.js` file listed below to explore a different topic.
 - `05_Do_While_Loop.js` and `06_While_Vs_DoWhile.js` - explore `do...while`
   loops and compare them with `while`.
 - `07_Nested_For_Loop.js` - use a `for` loop inside another `for` loop.
+
+### Arrays - `09_Arrays/`
+
+- `01_Array.js`, `02_Array.js`, and `03_Array.js` - create arrays and explore
+  their basic properties and constructors.
+- `04_Acess_Modify.js` - access and modify array elements.
+- `05_Add_Remove.js` - add and remove array elements.
+- `06_Search.js` and `07_Find.js` - search arrays with index and predicate
+  methods.
+- `08_Iterate.js` - iterate over array elements.
+- `09_Arrays_Transform.js` and `15_Array_Transform.js` - transform and test
+  array elements with callback methods.
+- `10_Array_Sorting.js` and `11_Array_Normal_sorting.js` - sort strings and
+  numbers.
+- `12_Array_Slice.js` and `13_Array_concat.js` - create arrays from existing
+  arrays with `slice` and `concat`.
+- `14_Array_check.js` - check whether a value is an array.
+- `16_Array_Copy.js` - copy arrays with the spread syntax.
+- `17_Array_Destructing.js` - unpack array values with destructuring.
+- `18_Swap.js` - swap values with array destructuring.
