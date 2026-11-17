@@ -100,3 +100,5 @@ Choose any `.js` file listed below to explore a different topic.
 - `16_Array_Copy.js` - copy arrays with the spread syntax.
 - `17_Array_Destructing.js` - unpack array values with destructuring.
 - `18_Swap.js` - swap values with array destructuring.
+- `19_Max.js` - find the largest value in an array with a loop and `Math.max`.
+- `20_Frequency.js` - count how often each value appears in an array.
