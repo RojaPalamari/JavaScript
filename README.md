@@ -102,3 +102,19 @@ Choose any `.js` file listed below to explore a different topic.
 - `18_Swap.js` - swap values with array destructuring.
 - `19_Max.js` - find the largest value in an array with a loop and `Math.max`.
 - `20_Frequency.js` - count how often each value appears in an array.
+
+### Functions - `10_Functions/`
+
+- `01_Function.js` - define and call a basic function.
+- `02_Type1_fn.js` - use a function with no parameters and no return value.
+- `03_Type2_fn.js` - use a function with no parameters and a return value.
+- `04_Type3_fn.js` - pass parameters to a function that does not return a value.
+- `05_Type4_fn.js` - use parameters and a return value.
+- `06_Template_Literal.js` - build function output with template literals.
+- `07_Function_Expression.js` - store a function in a variable.
+- `08_Arrow_fn.js` - create and use arrow functions.
+- `09_Function_real.js` - compare regular and arrow functions in a status
+  validation example.
+- `10_IIFE_fn.js` - run named, anonymous, and arrow immediately invoked
+  function expressions.
+- `11_Spread_As_Argument.js` - explore spreading values as function arguments.
